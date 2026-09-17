@@ -1,0 +1,1 @@
+docker exec -it swarm-jazzy bash
